@@ -2,6 +2,8 @@
 
 ## Overview
 This is a simple **Tic Tac Toe** game implemented using **HTML and CSS**. The game board consists of a **3x3 grid**, where each cell (square) represents a move by either **Player X** or **Player O**.
+[DGMD E-28 Assignment 2_1](https://jessz0l0.github.io/DGMD_E_28_Assignment_1/)](https://jessz0l0.github.io/DGMD_E_28_Assignment_2_2/)
+
 
 ## Features
 - **Game Board**: A 3x3 grid for Tic Tac Toe.
